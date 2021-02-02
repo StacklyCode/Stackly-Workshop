@@ -1,0 +1,19 @@
+body {
+  background: #282c34;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: larger;
+  scroll-behavior: smooth;
+}
+
+img {
+  max-width: 50%;
+  animation: rotate 3s infinite linear;
+}
+
+@keyframes rotate {
+  100% {
+    transform: rotate(360deg);
+  }
+}
