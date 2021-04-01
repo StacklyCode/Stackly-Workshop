@@ -4,8 +4,8 @@ Stackly Community Workshops's source code
 
 ## Workshops
 
-* React Basis [Soruce Code](https://github.com/StacklyCode/Stackly-Workshop/tree/main/react-part-1)
-* React Intermediate [Soruce Code](https://github.com/StacklyCode/Stackly-Workshop/tree/main/react-part-2)
+* React Basis [Source Code](https://github.com/StacklyCode/Stackly-Workshop/tree/main/react-part-1)
+* React Intermediate [Source Code](https://github.com/StacklyCode/Stackly-Workshop/tree/main/react-part-2)
 * Getting To FP [Source Code](https://github.com/StacklyCode/Stackly-Workshop/tree/main/get-starting-functional-programming)
 
 ## Workshop Leaders 🧠
