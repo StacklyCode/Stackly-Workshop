@@ -1,0 +1,13 @@
+# deps
+node_modules
+
+# build
+/dist
+
+# misc
+yarn-error.lock
+debug.lock
+
+# lock
+yarn.lock
+package-lock.json
