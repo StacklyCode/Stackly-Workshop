@@ -1,4 +1,4 @@
-# React for principiants
+# React Intemediate
 
 # Video
 
